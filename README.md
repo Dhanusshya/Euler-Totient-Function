@@ -1,1 +1,1 @@
-#Euler Totient function 
+#Euler-Totient-Function 
