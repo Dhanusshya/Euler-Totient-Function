@@ -1,1 +1,1 @@
-# Euler-Totient-Primality-test
+#Euler Totient function 
